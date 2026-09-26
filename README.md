@@ -17,4 +17,9 @@ The workflow extracts structural features from MD trajectories, applies time-ser
 Citation: If you use this code
 PAPER/DOI : https://doi.org/10.1101/2025.06.17.659969
 
+<p align="center">
+  <img src="Figure 3.tif" width="900">
+</p>
+
+
 License: MIT License
