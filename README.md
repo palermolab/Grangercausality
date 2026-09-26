@@ -18,7 +18,7 @@ Citation: If you use this code
 PAPER/DOI : https://doi.org/10.1101/2025.06.17.659969
 
 <p align="center">
-  <img src="Figure 3.tif" width="900">
+  <img src="Granger causality tests if TnsC dynamics preceeds and predicts DNA deformation.tif" width="900">
 </p>
 
 
